@@ -6,3 +6,5 @@ The is a small change to the file.
 This is another change to the file. 
 
 I love :pizza:
+
+I love to trade :stocks:
